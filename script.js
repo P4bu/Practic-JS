@@ -1,1 +1,1 @@
-alert('Hola')
+alert('Hi, World GitHub JS')
